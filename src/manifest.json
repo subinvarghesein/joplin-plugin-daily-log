@@ -5,8 +5,11 @@
 	"version": "1.0.0",
 	"name": "Daily Log",
 	"description": "Adds Daily Log and Todo functionality to Joplin",
-	"author": "Subin Varghese &lt;subinvarghesein@gmail.com&gt;",
+	"author": "Subin Varghese <subinvarghesein@gmail.com>",
 	"homepage_url": "",
-	"repository_url": "",
-	"keywords": []
+	"repository_url": "https://github.com/subinvarghesein/joplin-plugin-daily-log",
+	"keywords": [
+		"joplin",
+		"daily-log"
+	]
 }

@@ -6,6 +6,10 @@
     "prepare": "npm run dist",
     "update": "npm install -g generator-joplin && yo joplin --update"
   },
+  "author": {
+    "email": "subinvarghesein@gmail.com",
+    "name": "Subin Varghese"
+  },
   "license": "MIT",
   "keywords": [
     "joplin-plugin"
