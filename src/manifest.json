@@ -1,0 +1,12 @@
+{
+	"manifest_version": 1,
+	"id": "in.subinvarghesein.joplin.plugin.dailylog",
+	"app_min_version": "1.7",
+	"version": "1.0.0",
+	"name": "Daily Log",
+	"description": "Adds Daily Log and Todo functionality to Joplin",
+	"author": "Subin Varghese &lt;subinvarghesein@gmail.com&gt;",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": []
+}
